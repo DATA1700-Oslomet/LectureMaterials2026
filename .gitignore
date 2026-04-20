@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 
 .idea
+
+node_modules
+dist
+.parcel-cache/
